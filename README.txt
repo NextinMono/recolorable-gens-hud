@@ -1,0 +1,1 @@
+I (Nextin) did not make the actual hud base files, that's from JoeTE and his High-Res HUD mod! I only recolored the textures and edited the XNCP files.

@@ -1,0 +1,83 @@
+{
+    "Groups": [
+       {
+          "Name": "Main",
+          "DisplayName": "Configuration",
+         "Elements": [
+           {
+             "Name": "IncludeDir0",
+             "DisplayName": "HUD Color",
+             "Description": [
+               "Changes the HUD accent color"
+             ],
+             "Type": "BaseEnum",
+             "MinValue": null,
+             "MaxValue": null,
+             "DefaultValue": "hud_bw"
+           },
+           {
+            "Name": "IncludeDir1",
+            "DisplayName": "Button Color",
+            "Description": [
+              "This changes the button text's accent color to whatever you pick (Does not apply to timer,lives,rings text)"
+            ],
+            "Type": "ButtonEnum",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "hud_bw_buttonh"
+          }
+         ]
+       }
+    ],
+    "Enums": {
+      
+     "BaseEnum": [
+      {
+        "DisplayName": "Monochrome",
+        "Value": "hud_bw",
+        "Description": [
+          "Changes to Monochromatic Black and White"
+        ]
+      },
+       {
+         "DisplayName": "Green",
+         "Value": "hud_grn",
+         "Description": [
+           "Changes to Green"
+         ]
+       },
+       {
+        "DisplayName": "Orange",
+        "Value": "hud_orng",
+        "Description": [
+          "Changes to Orange"
+        ]
+      }      
+     ],
+     
+     "ButtonEnum": [
+      {
+        "DisplayName": "Monochrome",
+        "Value": "hud_bw_buttonh",
+        "Description": [
+          "Changes to Monochromatic Black and White"
+        ]
+      },
+       {
+         "DisplayName": "Green",
+         "Value": "hud_grn_buttonh",
+         "Description": [
+           "Changes to Green"
+         ]
+       },
+       {
+        "DisplayName": "Orange",
+        "Value": "hud_orng_buttonh",
+        "Description": [
+          "Changes to Orange"
+        ]
+      }      
+     ]
+    },
+    "IniFile": "mod.ini"
+ }
