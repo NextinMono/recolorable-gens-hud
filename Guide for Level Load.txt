@@ -1,0 +1,2 @@
+For the level load XNCP, to change the top, left, bottom part:
+find variable name "shutter", change color of both, shutter 0 is top and bottom
