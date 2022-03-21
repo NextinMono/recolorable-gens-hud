@@ -52,7 +52,14 @@
         "Description": [
           "Changes to Orange"
         ]
-      }      
+      },
+      {
+        "DisplayName": "Red",
+        "Value": "hud_red",
+        "Description": [
+          "Changes to Red"
+        ]
+      }          
      ],
      
      "ButtonEnum": [
@@ -76,7 +83,14 @@
         "Description": [
           "Changes to Orange"
         ]
-      }      
+      },
+      {
+        "DisplayName": "Red",
+        "Value": "hud_red_buttonh",
+        "Description": [
+          "Changes to Red"
+        ]
+      }          
      ]
     },
     "IniFile": "mod.ini"
