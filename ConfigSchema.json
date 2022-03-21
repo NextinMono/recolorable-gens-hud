@@ -47,19 +47,26 @@
          ]
        },
        {
-        "DisplayName": "Orange",
+        "DisplayName": "Orange(W.I.P)",
         "Value": "hud_orng",
         "Description": [
-          "Changes to Orange"
+          "Changes to Orange(W.I.P)"
         ]
       },
       {
-        "DisplayName": "Red",
+        "DisplayName": "Red(W.I.P)",
         "Value": "hud_red",
         "Description": [
-          "Changes to Red"
+          "Changes to Red(W.I.P)"
         ]
-      }          
+      },
+      {
+        "DisplayName": "Sky Blue(W.I.P)",
+        "Value": "hud_skbl",
+        "Description": [
+          "Changes to Sky Blue(W.I.P)"
+        ]
+      }      
      ],
      
      "ButtonEnum": [
@@ -90,7 +97,14 @@
         "Description": [
           "Changes to Red"
         ]
-      }          
+      },
+      {
+        "DisplayName": "Sky Blue",
+        "Value": "hud_skbl_buttonh",
+        "Description": [
+          "Changes to Sky Blue"
+        ]
+      }      
      ]
     },
     "IniFile": "mod.ini"
