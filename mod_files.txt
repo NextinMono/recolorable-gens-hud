@@ -1,1 +1,9 @@
-.
+mod.ini
+mod_version.ini
+ConfigSchema.json
+hud_orng
+hud_red
+hud_red_buttonh
+hud_skbl
+hud_skbl_buttonh
+changelog.md
